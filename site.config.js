@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Edgar Ferreira',
-  domain: 'https://blog-ux-tech.vercel.app',
+  domain: 'blog.edgar-ferreira.com',
   author: 'Edgar Ferreira',
 
   // open graph metadata (optional)
